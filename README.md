@@ -13,7 +13,6 @@ Woven textiles elongate over time with gravity in the diagonal direction. This p
 In couture dress-making methods, these pieces would be draped on the mannequin for an extended time, allowing it to settle to its final shape and then be trimmed, which is a costly process for regular, mass-produced garments. The goal of this project is to simulate the "stretching out" of such textiles with the related parameters applied so the final shape of pattern pieces can be predicted without having to physically draping them. This allows the pattern pieces to be pretrimmed and sewn into garments, and the consumer would have the garment with a final, balanced hem after one or two wears. While the project requirements sheet emphasizes a focus on molecular-level simulations, this project explores a related realm of study that can be seen as a broader application of the principles underlying molecular movements.
 
 
-
 ## Goal
 
 Develop a comprehensive simulation model for fabric behavior under the influence of gravity, with a specific focus on the diagonal line of fabric pattern pieces. The model will utilize fabric-specific parameters such as weave tightness, weight, and affected area to predict and visualize the deformation of fabric pattern pieces over time. This simulation aims to enable precise pre-trimming and assembly of garments, enhancing the quality and fit of mass-produced textile products, with particular attention to gravity's impact along the diagonal line.
@@ -68,6 +67,8 @@ Define the initial configuration of nodes based on fabric characteristics to rep
 
 
 ### Step Two: Weight-Dependent Affected Region Calculation
+
+https://ibb.co/3MW0fg4
 
 #### Objective: 
 
